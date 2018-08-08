@@ -47,6 +47,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 
         <framework src="Firebase/Core" type="podspec" spec="~> 5.0"/>
         <framework src="Firebase/Messaging" type="podspec" spec="~> 5.2"/>
+        <framework src="GoogleToolboxForMac" type="podspec" spec="~> 2.1.4"/>
     </platform>
 
     <platform name="android">
